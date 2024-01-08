@@ -1,0 +1,6 @@
+@ProfileServiceNew_HostAddress = http://localhost:5098
+
+GET {{ProfileServiceNew_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
